@@ -1,0 +1,16 @@
+.banner-card{
+    position: relative;
+}
+.banner-card img{
+    width:100%;
+    height: auto;
+
+
+}
+.banner-text{
+    position: absolute;
+    top:25%;
+    color:#fff;
+    padding:10px;
+
+}
